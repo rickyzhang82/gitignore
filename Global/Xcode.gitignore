@@ -21,3 +21,13 @@ xcuserdata
 *.xccheckout
 *.moved-aside
 *.xcuserstate
+
+*.xcworkspace
+!default.xcworkspace
+.DS_Store
+xcuserdata
+profile
+*.moved-aside
+.idea/
+# Pods - for those of you who use CocoaPods
+Pods
